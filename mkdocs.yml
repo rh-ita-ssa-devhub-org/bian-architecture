@@ -3,6 +3,7 @@ site_description: BIAN Architecture documentation and API compliance guidelines
 
 nav:
   - Home: index.md
+  - BIAN API Compliance Validation Guide: BIAN_API_Compliance_Validation_Guide.md
 
 plugins:
   - techdocs-core
