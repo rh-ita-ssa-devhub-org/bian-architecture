@@ -1,0 +1,8 @@
+site_name: BIAN Architecture
+site_description: BIAN Architecture documentation and API compliance guidelines
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
